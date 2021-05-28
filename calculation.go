@@ -15,3 +15,4 @@ func T3(){
 func T4(){
 
 }
+func T5(){}
