@@ -16,3 +16,4 @@ func T4(){
 
 }
 func T5(){}
+func T6(){}
